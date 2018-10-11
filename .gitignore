@@ -1,0 +1,5 @@
+train/
+test/
+.git/
+.vscode/
+.idea/
