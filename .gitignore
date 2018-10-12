@@ -3,3 +3,9 @@ test/
 .git/
 .vscode/
 .idea/
+train/*
+test/*
+.git/*
+.vscode/*
+.idea/*
+
